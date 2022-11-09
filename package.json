@@ -1,0 +1,17 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "aprenderemos las nuevas implementaciones de cada version de ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "and",
+    "ecmascript"
+  ],
+  "author": "gabriel gramajo",
+  "license": "MIT",
+  "type": "module"
+}
